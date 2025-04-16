@@ -1,13 +1,13 @@
 #######################################
-# Syntax Coloring Map For RAK11720_AT
+# Syntax Coloring Map For RAK_AT
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-RAK11720	KEYWORD1
-RAK11720Initial	KEYWORD1
+RAK	KEYWORD1
+RAKInitial	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -38,4 +38,4 @@ ConvertStringToHext	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-RAK11720Serial	LITERAL1
+RAKSerial	LITERAL1
