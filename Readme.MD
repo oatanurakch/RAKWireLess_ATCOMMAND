@@ -1,5 +1,3 @@
-I'll update the README.MD to mention the ArduinoJson.h dependency:
-
 # RAK Module AT Library
 
 This Arduino library provides an easy way to control RAK Module LoRaWAN modules using AT commands from ESP32 development boards. The library is specifically optimized for the AS923 TH frequency band but can work with other bands as well.
