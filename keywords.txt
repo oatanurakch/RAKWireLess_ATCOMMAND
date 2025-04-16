@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For RAK11720_AT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RAK11720	KEYWORD1
+RAK11720Initial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+Response	KEYWORD2
+CheckAT	KEYWORD2
+RUIVersion	KEYWORD2
+OTAA_DEVEUI	KEYWORD2
+OTAA_APPEUI	KEYWORD2
+OTAA_APPKEY	KEYWORD2
+ABP_DEVADDR	KEYWORD2
+ABP_APPSKEY	KEYWORD2
+ABP_NWKSKEY	KEYWORD2
+LoRaWAN_ConfirmMode	KEYWORD2
+LoRaWAN_Join	KEYWORD2
+LoRaWAN_JoinMode	KEYWORD2
+LoRaWAN_JoinStatus	KEYWORD2
+LoRaWAN_SendData	KEYWORD2
+LoRaWAN_Class	KEYWORD2
+LoRaWAN_TXPower	KEYWORD2
+LoRaWAN_Band	KEYWORD2
+LoRaWAN_RSSI	KEYWORD2
+ConvertStringToHext	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RAK11720Serial	LITERAL1
